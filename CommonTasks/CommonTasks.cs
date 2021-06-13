@@ -11,7 +11,7 @@ namespace Common.Tasks
 
         public int Product(int a, int b)
         {
-            return a * b
+            return a * b;
         }
 
         public int Division(int a, int b)
