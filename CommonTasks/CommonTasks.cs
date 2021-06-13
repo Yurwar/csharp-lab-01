@@ -6,7 +6,7 @@ namespace Common.Tasks
     {
         public int Sum(int a, int b)
         {
-            return a + b;
+            return a + b + b;
         }
 
         public int Product(int a, int b)
